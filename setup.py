@@ -35,7 +35,9 @@ setup(
     author_email='flushot@gmail.com',
 
     description='Python dependency graph',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
+    url='https://github.com/Flushot/pydepend',
+
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers'
